@@ -13,7 +13,7 @@ const contactCards = [
     title: "Email",
     text: "Collaboration, feedback या किसी भी सवाल के लिए हमें email करें — हम जल्दी जवाब देते हैं।",
     action: "Email लिखें",
-    href: "mailto:dakhilvarma@gmail.com",
+    href: "mailto:hellozorikids@gmail.com",
     bg: "bg-zori-sky",
   },
   {
