@@ -8,6 +8,7 @@ const navLinks = [
   { href: "/hindi", label: "ZoriKids Hindi", external: false },
   { href: "/english", label: "ZoriKids English", external: false },
   { href: "https://zorikidshindi.blogspot.com", label: "Blog", external: true },
+  { href: "/contact", label: "Contact", external: false },
 ];
 
 export default function Header() {

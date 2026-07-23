@@ -68,6 +68,9 @@ export default function Footer() {
             <Link href="/english" className="text-white/90 transition-colors hover:text-zori-yellow">
               ZoriKids English
             </Link>
+            <Link href="/contact" className="text-white/90 transition-colors hover:text-zori-yellow">
+              Contact Us
+            </Link>
           </nav>
 
           <div className="flex flex-col items-center gap-2 md:items-start">
