@@ -5,8 +5,8 @@ const orgJsonLd = {
   "@context": "https://schema.org",
   "@type": "Organization",
   name: "ZoriKids",
-  url: "https://zorikids.com",
-  logo: "https://zorikids.com/zorikids_logo.png",
+  url: "https://zorikids.in",
+  logo: "https://zorikids.in/zorikids_logo.png",
   description:
     "Calm, low-stimulation learning songs for kids aged 1-6, in Hindi & English, featuring Zori and Banni.",
   sameAs: [
