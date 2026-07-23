@@ -19,7 +19,7 @@ const mukta = Mukta({
 });
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://zorikids.com"),
+  metadataBase: new URL("https://zorikids.in"),
   title: {
     default: "ZoriKids — Hindi & English Learning Songs for Kids (Ages 1-6)",
     template: "%s | ZoriKids",
